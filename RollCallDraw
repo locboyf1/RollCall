@@ -20,7 +20,7 @@
             <mxPoint x="70" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Teacher" tooltip="" id="IJe8qnW2U3Fxzsf4bX0M-1">
+        <UserObject label="Giảng viên" tooltip="" id="IJe8qnW2U3Fxzsf4bX0M-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;html=1;horizontal=1;" parent="1" vertex="1">
             <mxGeometry x="40" y="410" width="30" height="60" as="geometry" />
           </mxCell>
@@ -168,9 +168,9 @@
         <mxCell id="aurtR4en3IwYGAVOTS8X-49" value="Xét duyệt sinh viên học bù" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="860" width="136" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="Teacher" tooltip="" id="aMphJpvkfW_L1R6sBYQM-1">
+        <UserObject label="Sinhviên" tooltip="" id="aMphJpvkfW_L1R6sBYQM-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;html=1;horizontal=1;" vertex="1" parent="1">
-            <mxGeometry x="100" y="930" width="30" height="60" as="geometry" />
+            <mxGeometry x="50" y="930" width="30" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
