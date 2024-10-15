@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Trang-1" id="40ixlczTipzKZP37stPs">
-    <mxGraphModel dx="1366" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,25 +168,16 @@
         <mxCell id="aurtR4en3IwYGAVOTS8X-49" value="Xét duyệt sinh viên học bù" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="770" width="136" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eaOfCS5plKjLWYguuH8u-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aMphJpvkfW_L1R6sBYQM-1" target="eaOfCS5plKjLWYguuH8u-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eaOfCS5plKjLWYguuH8u-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aMphJpvkfW_L1R6sBYQM-1" target="eaOfCS5plKjLWYguuH8u-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="Sinh viên" tooltip="" id="aMphJpvkfW_L1R6sBYQM-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;html=1;horizontal=1;" parent="1" vertex="1">
-            <mxGeometry x="50" y="930" width="30" height="60" as="geometry" />
+            <mxGeometry x="30" y="1025" width="30" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="eaOfCS5plKjLWYguuH8u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="eaOfCS5plKjLWYguuH8u-1" target="eaOfCS5plKjLWYguuH8u-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eaOfCS5plKjLWYguuH8u-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eaOfCS5plKjLWYguuH8u-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.0545" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eaOfCS5plKjLWYguuH8u-1" value="Bật định vị điện thoại" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="935" width="136" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="eaOfCS5plKjLWYguuH8u-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eaOfCS5plKjLWYguuH8u-3" target="eaOfCS5plKjLWYguuH8u-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -206,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eaOfCS5plKjLWYguuH8u-3" value="Điểm danh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1050" width="136" height="50" as="geometry" />
+          <mxGeometry x="130" y="1030" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eaOfCS5plKjLWYguuH8u-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eaOfCS5plKjLWYguuH8u-7" target="aurtR4en3IwYGAVOTS8X-49" edge="1">
           <mxGeometry relative="1" as="geometry">
