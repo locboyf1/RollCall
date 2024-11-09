@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="861R5XqWkjenVKNn3XdG">
-    <mxGraphModel dx="956" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint x="124.5" y="124" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TB7T-nES3hKTtgGeuez8-6" value="Chọn chức năng" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="SHtJq1dbGMG4-4MlvimU-11">
+        <mxCell id="TB7T-nES3hKTtgGeuez8-6" value="1Chọn chức năng" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="SHtJq1dbGMG4-4MlvimU-11">
           <mxGeometry x="66.5" y="184" width="116" height="116" as="geometry" />
         </mxCell>
         <mxCell id="SHtJq1dbGMG4-4MlvimU-12" value="Hệ thống" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="SHtJq1dbGMG4-4MlvimU-9" vertex="1">
@@ -36,10 +36,10 @@
             <mxRectangle width="271" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b9BK-sWuIaXSt9xi2NE8-11" value="2.Hiển thị thông báo bắt đầu điểm danh cho sinh viên" style="rounded=1;whiteSpace=wrap;html=1;" parent="SHtJq1dbGMG4-4MlvimU-12" vertex="1">
+        <mxCell id="b9BK-sWuIaXSt9xi2NE8-11" value="3.Hiển thị thông báo bắt đầu điểm danh cho sinh viên" style="rounded=1;whiteSpace=wrap;html=1;" parent="SHtJq1dbGMG4-4MlvimU-12" vertex="1">
           <mxGeometry x="81" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TB7T-nES3hKTtgGeuez8-4" value="1.Chọn thông báo cho nghỉ buổi học" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SHtJq1dbGMG4-4MlvimU-12">
+        <mxCell id="TB7T-nES3hKTtgGeuez8-4" value="2.Thông báo nghỉ buổi học với sinh viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SHtJq1dbGMG4-4MlvimU-12">
           <mxGeometry x="75.5" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b9BK-sWuIaXSt9xi2NE8-1" value="Hệ thống quản lý đào tạo" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="SHtJq1dbGMG4-4MlvimU-9" vertex="1">
@@ -106,7 +106,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b9BK-sWuIaXSt9xi2NE8-25" value="3.Chọn chức năng thực hiện" style="rhombus;whiteSpace=wrap;html=1;" parent="SHtJq1dbGMG4-4MlvimU-14" vertex="1">
+        <mxCell id="b9BK-sWuIaXSt9xi2NE8-25" value="4.Chọn chức năng&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="SHtJq1dbGMG4-4MlvimU-14" vertex="1">
           <mxGeometry x="67" y="66" width="116" height="116" as="geometry" />
         </mxCell>
         <mxCell id="b9BK-sWuIaXSt9xi2NE8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="SHtJq1dbGMG4-4MlvimU-14" source="b9BK-sWuIaXSt9xi2NE8-26" target="b9BK-sWuIaXSt9xi2NE8-32" edge="1">
